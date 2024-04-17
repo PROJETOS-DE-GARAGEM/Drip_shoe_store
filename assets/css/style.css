@@ -8,6 +8,8 @@
     --primary-pink: #C92071;
 }
 
+/*Footer Styler*/
+
 * {
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     padding: 0;
@@ -82,6 +84,9 @@ i{
 
 
 }
+
+
+/* Responsive layout*/
 
 @media screen and (max-width: 954px){
     #footer_content{
